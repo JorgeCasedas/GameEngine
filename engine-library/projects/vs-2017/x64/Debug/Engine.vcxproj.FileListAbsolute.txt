@@ -1,0 +1,2 @@
+C:\Users\Usuario\Desktop\EntregaMotores\engine-library\projects\vs-2017\x64\Debug\Engine.lib
+C:\Users\Usuario\Desktop\EntregaMotores\engine-library\projects\vs-2017\x64\Debug\Engine.pdb

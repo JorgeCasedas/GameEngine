@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xmemory(204,33): warning C4244: 'argumento': conversión de '_Ty' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\memory(1485): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::_Construct_in_place<_Ty,_Ty2&,int,const char(&)[25]>(_Ty &,_Ty2 &,int &&,const char (&)[25]) noexcept(false)" que se está compilando
+          with
+          [
+              _Ty=engine::PlayerMovementComponent,
+              _Ty2=engine::MessageBus
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\memory(1583): message : Vea la referencia a la creación de una instancia de la función plantilla "std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<_Ty2&,int,const char(&)[25]>(_Ty2 &,int &&,const char (&)[25])" que se está compilando
+          with
+          [
+              _Ty=engine::PlayerMovementComponent,
+              _Ty2=engine::MessageBus
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\memory(1584): message : Vea la referencia a la creación de una instancia de la función plantilla "std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<_Ty2&,int,const char(&)[25]>(_Ty2 &,int &&,const char (&)[25])" que se está compilando
+          with
+          [
+              _Ty=engine::PlayerMovementComponent,
+              _Ty2=engine::MessageBus
+          ]
+C:\Users\Usuario\Desktop\EntregaMotores\executable-test\code\main.cpp(59): message : Vea la referencia a la creación de una instancia de la función plantilla "std::shared_ptr<engine::PlayerMovementComponent> std::make_shared<engine::PlayerMovementComponent,_Ty2&,int,const char(&)[25]>(_Ty2 &,int &&,const char (&)[25])" que se está compilando
+          with
+          [
+              _Ty2=engine::MessageBus
+          ]
+  TEST.vcxproj -> C:\Users\Usuario\Desktop\EntregaMotores\executable-test\projects\vs-2017\x64\Debug\TEST.exe

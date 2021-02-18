@@ -1,0 +1,12 @@
+﻿  Entity.cpp
+  GraphicsComponent.cpp
+  Kernel.cpp
+  Level.cpp
+  PlayerMovementComponent.cpp
+  RenderTask.cpp
+  Sample_Renderer.cpp
+  Transform.cpp
+  Window.cpp
+  Generando código...
+winmain.obj : warning LNK4006: WinMain ya se definió en sfml-main-d.lib(MainWin32.cpp.obj); segunda definición omitida
+  Engine.vcxproj -> C:\Users\Usuario\Desktop\EntregaMotores\engine-library\projects\vs-2017\x64\Debug\Engine.lib
